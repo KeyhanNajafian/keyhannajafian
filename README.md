@@ -62,7 +62,7 @@
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazons.svg" width="48" height="48" alt="AWS" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
