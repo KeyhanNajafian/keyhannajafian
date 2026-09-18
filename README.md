@@ -9,7 +9,7 @@
 <a href="https://scholar.google.ca/citations?hl=en&user=3RI_XdQAAAAJ">
   <img align="left" alt="Keyhan's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
-<a href="mailto:keyhan.najafian@ucalgary.ca">
+<a href="mailto:keyhan.najafian@gmail.com">
   <img align="left" alt="Keyhan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
