@@ -18,7 +18,7 @@
 
 🎓 Ph.D. in Computer Science | 🤖 Postdoctoral Researcher in AI Systems & Deployment, Vision Research Lab, University of Calgary  
 🔬 Passionate about Computer Vision, Signal Processing (EEG), Deep Learning, and Edge AI Deployment  
-🧠 Building foundation-based self-/semi-supervised learning models for real-world impact — from medical imaging to precision agriculture.
+🧠 Building foundation-based self-/semi-supervised learning models for real-world impact, from medical imaging to precision agriculture.
 
 ---
 
