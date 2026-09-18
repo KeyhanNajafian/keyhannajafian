@@ -9,22 +9,22 @@
 <a href="https://scholar.google.ca/citations?hl=en&user=3RI_XdQAAAAJ">
   <img align="left" alt="Keyhan's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
-<a href="mailto:keyhan.najafian@usask.ca">
+<a href="mailto:keyhan.najafian@ucalgary.ca">
   <img align="left" alt="Keyhan's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br />
 <br />
 
-🎓 Ph.D. Candidate in Computer Science | 🤖 Applied AI Researcher  
-🔬 Passionate about Computer Vision, NLP, Signal Processing (EEG), and Deep Learning  
+🎓 Ph.D. in Computer Science | 🤖 Postdoctoral Researcher in AI Systems & Deployment, Vision Research Lab, University of Calgary  
+🔬 Passionate about Computer Vision, Signal Processing (EEG), Deep Learning, and Edge AI Deployment  
 🧠 Building foundation-based self-/semi-supervised learning models for real-world impact — from medical imaging to precision agriculture.
 
 ---
 
 ## 🔧 Core Expertise
-- Machine Learning | Computer Vision | NLP | Signal Processing (EEG)
-- Semi-/Self-Supervised Learning | Medical Image Analysis | Brain-Computer Interfaces
+- Machine Learning | Computer Vision | Signal Processing (EEG) | Edge & Real-Time Inference
+- Semi-/Self-Supervised Learning | Medical Image Analysis | Generative Models (Diffusion, GANs)
 
 ### 🛠️ My Tech Stack
 
@@ -73,6 +73,5 @@
 
 ## 📌 Latest Project
 Check out my recent research project & paper:  
-[🧾 Paper](https://openaccess.thecvf.com/content/CVPR2025W/V4A/papers/Najafian_A_Semi-Self-Supervised_Approach_for_Dense-Pattern_Video_Object_Segmentation_CVPRW_2025_paper.pdf) | [💻 Repo](https://github.com/USask-BINFO/DVOS)
-
+[🧾 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3RI_XdQAAAAJ&citation_for_view=3RI_XdQAAAAJ:MXK_kJrjxJIC) | [💻 Repo](https://github.com/USask-BINFO/glmask-semantic2instance)
 
